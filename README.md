@@ -1,2 +1,5 @@
-# haven_os
-Haven Operating System written with Rust
+# Haven OS
+Operating System written with Rust
+
+# Resources 
+- https://os.phil-opp.com
